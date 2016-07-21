@@ -1,0 +1,23 @@
+/*=========首页样式==========*/
+/*=======nav========*/
+.nav ul{width:74px;height:100%;background:#d10048;position:fixed;top:0;left:0;padding-top:10px;text-align:center;}
+.nav ul li{height:46px;line-height:46px;overflow:hidden;background:url(../img/nav_b.png) bottom no-repeat;
+}
+.nav ul li a:hover{background:#da477a}
+.nav ul li a{display:block;color:#fff;height:44px;overflow:hidden}
+.nav ul .alone{line-height:normal;padding-top:5px}
+/*====================title========================*/
+.title{width:1145px;height:70px;margin:0 auto;}
+.title h1{margin-top:20px;float:left}
+.title div{float:right}
+.title span{display:inline-block;margin-top:20px;height:25px;line-height:25px}
+.title span a{display:inline-block;height:25px;line-height:25px;font-size:11px;color:#888}
+.title div span a img{width:30px;height:21px}
+
+/*==================banner==========================*/
+.banner{width:1145px;height:400px;margin:0 auto;overflow:hidden;position:relative}
+.banner .banner_bottom{width:1130px;height:8px;background:#fff;position:absolute;bottom:0;left:7px}
+.banner .banner_bottom div{width:226px;height:8px;float:left}
+.banner .banner_left,.banner .banner_right{width:40px;height:40px;font-size:20px;line-height:40px;text-align:center;height:40px;background:#666;color:#fff}
+.banner .banner_left{position:absolute;top:200px;left:0;opacity:0;}
+.banner .banner_right{position:absolute;top:200px;left:1105px;opacity:0;}
