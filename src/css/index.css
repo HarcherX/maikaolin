@@ -21,3 +21,22 @@
 .banner .banner_left,.banner .banner_right{width:40px;height:40px;font-size:20px;line-height:40px;text-align:center;height:40px;background:#666;color:#fff}
 .banner .banner_left{position:absolute;top:200px;left:0;opacity:0;}
 .banner .banner_right{position:absolute;top:200px;left:1105px;opacity:0;}
+/*==================main==========================*/
+.main{height:2560px;width:1145px;margin:0 auto;}
+.main .main_top{height:693px;width:1145px;}
+.main .main_top .main_top_l,.main .main_top .main_top_c,.main .main_top .main_top_r{width:380px;height:693px;float:left;overflow:hidden}
+.main .main_top_c{margin:0 2px}
+.main .beauty{width:380px;height:226px;overflow:hidden}
+.main .picture_r,.main .picture_l{height:226px;background:#fff;}
+.main .addimg{width:190px;height:226px;overflow:hidden}
+.main .main_top .main_top_l .picture_r{margin:4px 0;}
+.main .main_top .main_top_r .picture_l{margin:4px 0;}
+.main .addtext {padding-left:15px;width:175px;height:226px}
+.main .addtext h2,.main .addtext_new h2{font-size:14px;margin-top:24px;margin-bottom:45px}
+.main .addtext p,.main .addtext_new p{font-size:14px;color:#9696ae;font-size:12px}
+.main .addtext .readtxt,.main .addtext_new .readtxt{font-size:14px;color:#d10048;}
+.main .main_middle .picture_l{margin:4px 0;}
+.main .main_bottom .picture_l{margin:4px 0;}
+.main .addtext_new{padding-left:20px;width:207px;height:232px}
+
+
